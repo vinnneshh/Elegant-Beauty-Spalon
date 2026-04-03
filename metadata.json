@@ -1,0 +1,5 @@
+{
+  "name": "Elegant Beauty Spalon",
+  "description": "Luxury unisex beauty salon and spa in Gachibowli, Hyderabad offering premium massages, skincare, and salon services.",
+  "requestFramePermissions": ["geolocation"]
+}
